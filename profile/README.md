@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!--
+This organization is only for saving old/archived/learning/forked projects that I'm not working any more, and a kinda project for tests :)
 
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
